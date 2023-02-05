@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "e57d89b7-2768-4d81-91af-aeca29110577",
+		"name": "book api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "25454017"
+	},
+	"item": [
+		{
+			"name": "getBooks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
