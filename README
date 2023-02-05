@@ -1,0 +1,19 @@
+#default swagger
+http://localhost:8080/v3/api-docs/
+
+#swagger config
+springdoc.api-docs.path=/api-docs
+
+#swagger ui
+http://localhost:8080/swagger-ui.html
+
+https://swagger.io/specification/
+
+
+#actuator
+http://localhost:8080/actuator/health
+
+http://localhost:8080/actuator
+
+#google book api
+https://developers.google.com/books/docs/v1/using#st_params
